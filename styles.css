@@ -14,6 +14,17 @@ footer {
     padding-bottom: 5%;
 }
 
+h2 {
+    color: rgb(4, 66, 45);
+}
+
 h1 {
     padding-top: 3%;
+    color: rgb(102, 17, 172);
+}
+
+img {
+    margin-left: 21.5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
 }
